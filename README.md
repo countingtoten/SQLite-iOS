@@ -1,7 +1,7 @@
 SQLite-iOS
 ==========
 
-IOS port of sqlite3. Code is available from http://www.sqlite.org/. 
+SQLite3 compiled into a library. Oringal SQLite code is available from http://www.sqlite.org/. 
 
 License
 ==========

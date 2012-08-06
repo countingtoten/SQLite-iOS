@@ -30,6 +30,7 @@
 		0B478BA115CF8B9200F74C94 /* sqlite3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = sqlite3.c; path = sqlite3/sqlite3.c; sourceTree = "<group>"; };
 		0B478BA215CF8B9200F74C94 /* sqlite3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = sqlite3.h; path = sqlite3/sqlite3.h; sourceTree = "<group>"; };
 		0B478BA315CF8B9200F74C94 /* sqlite3ext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = sqlite3ext.h; path = sqlite3/sqlite3ext.h; sourceTree = "<group>"; };
+		0B478BA615CF8CDC00F74C94 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 		0B301ECE15CF8A33001B7F58 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0B478BA615CF8CDC00F74C94 /* README.md */,
 				0B301ECF15CF8A33001B7F58 /* SQLite-Prefix.pch */,
 			);
 			name = "Supporting Files";
