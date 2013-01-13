@@ -5,7 +5,7 @@ SQLite3 compiled into a library. Oringal SQLite code is available from http://ww
 
 Version
 ==========
-3.7.14.1
+3.7.15.2
 
 License
 ==========
